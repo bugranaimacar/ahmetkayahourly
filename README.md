@@ -1,2 +1,2 @@
 # ahmetkayahourly
-A Bot for posting Ahmet Kaya's video on every hour.
+A Bot for posting Ahmet Kaya's video every hour.
