@@ -1,0 +1,15 @@
+{
+  "name": "ahmetkaya",
+  "version": "0.0.1",
+  "description": "auto ahmetkaya instagram video",
+  "main": "ahmetkaya.js",
+  "scripts": {
+    "start": "node ahmetkaya.js"
+  },
+  "author": "naim",
+  "license": "ISC",
+  "dependencies": {
+    "instagram-private-api": "^1.45.2",
+    "node-cron": "^3.0.0"
+  }
+}
