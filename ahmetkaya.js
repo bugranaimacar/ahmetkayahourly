@@ -13,7 +13,7 @@ const postvideo = async() => {
     try {
         ig.state.generateDevice(username)
         if (typeof user == 'undefined') {
-            user = await ig.account.login(username, password)
+            let user = await ig.account.login(username, password)
         }
         let tamvakit = new Date();
         console.log('YENİ UPLOAD:' + tamvakit + '\n')
